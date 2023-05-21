@@ -1,0 +1,12 @@
+2022-01-04 10:47:54,815 root INFO Starting
+2022-01-04 10:47:58,458 root DEBUG Processing
+2022-01-04 10:48:00,794 root DEBUG Computing centrality metrics
+2022-01-04 10:48:03,165 root DEBUG Degree for unrestricted/restricted graph with/out weight computed
+2022-01-04 10:48:03,399 root DEBUG In degree for unrestricted/restricted graphs with/out weight computed
+2022-01-04 10:48:03,624 root DEBUG Out degree for unrestricted/restricted graphs with/out weight computed
+2022-01-04 10:50:00,165 root DEBUG Betweenness for unrestricted/restricted graphs with/out weight computed
+2022-01-04 10:52:43,429 root DEBUG Current flow betweenness for unrestricted/restricted graphs with weight computed
+2022-01-04 10:58:00,240 root DEBUG Closeness for unrestricted and restricted graphs with and without weight computed
+2022-01-04 10:58:00,240 root DEBUG Flow betweenness for unrestricted/restricted graphs with weight computed
+2022-01-04 10:58:06,982 root DEBUG Pagerank for unrestricted and restricted graphs with and without weight computed
+2022-01-04 10:58:08,323 root DEBUG Saving graphs into pickle files
