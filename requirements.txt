@@ -1,11 +1,11 @@
 grpcio
 grpcio-tools
 jsonpickle~=1.5.1
-numpy~=1.21.0
+numpy>=1.22
 networkx~=2.5
 #typing-extension
 pylightning~=0.0.7.3
-requests~=2.25.1
+requests>=2.32.0
 google~=3.0.0
 gcloud
 google-api-python-client
